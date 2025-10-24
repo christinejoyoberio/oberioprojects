@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SubjectDatabase", "SubjectDatabase\SubjectDatabase.sqlproj", "{1B838406-729E-4720-BE13-82B5078B461D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OberioWPF-IPT", "OberioWPF-IPT\OberioWPF-IPT.csproj", "{C2D8D39C-1CEF-42C4-AA96-1A292B3925A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B838406-729E-4720-BE13-82B5078B461D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B838406-729E-4720-BE13-82B5078B461D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B838406-729E-4720-BE13-82B5078B461D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1B838406-729E-4720-BE13-82B5078B461D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B838406-729E-4720-BE13-82B5078B461D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B838406-729E-4720-BE13-82B5078B461D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C2D8D39C-1CEF-42C4-AA96-1A292B3925A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D8D39C-1CEF-42C4-AA96-1A292B3925A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D8D39C-1CEF-42C4-AA96-1A292B3925A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D8D39C-1CEF-42C4-AA96-1A292B3925A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032DD1DB-5F1C-44A7-859F-D06DBBAAD40B}
+	EndGlobalSection
+EndGlobal

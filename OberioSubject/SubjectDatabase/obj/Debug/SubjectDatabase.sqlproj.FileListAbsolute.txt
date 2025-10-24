@@ -1,0 +1,6 @@
+D:\OBERIOIPT\OberioSubject\SubjectDatabase\bin\Debug\SubjectDatabase.dacpac
+D:\OBERIOIPT\OberioSubject\SubjectDatabase\bin\Debug\SubjectDatabase.dll
+D:\OBERIOIPT\OberioSubject\SubjectDatabase\bin\Debug\SubjectDatabase.pdb
+D:\OBERIOIPT\OberioSubject\SubjectDatabase\obj\Debug\SubjectDatabase.sqlproj.AssemblyReference.cache
+D:\OBERIOIPT\OberioSubject\SubjectDatabase\obj\Debug\SubjectDatabase.dll
+D:\OBERIOIPT\OberioSubject\SubjectDatabase\obj\Debug\SubjectDatabase.pdb

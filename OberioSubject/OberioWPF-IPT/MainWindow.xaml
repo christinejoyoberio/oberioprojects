@@ -1,0 +1,34 @@
+﻿<Window x:Class="OberioWPF_IPT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="Subjects List" Height="450" Width="500">
+    <ScrollViewer VerticalScrollBarVisibility="Auto"
+                  Background="Pink">
+        <StackPanel Margin="20">
+
+            <Border BorderBrush="DarkBlue" BorderThickness="3" Padding="10" Margin="0,0,0,10">
+                <StackPanel>
+                    <TextBlock Text="Subject: ICT" FontStyle="Italic" FontSize="18" FontWeight="Bold"/>
+                    <TextBlock Text="Learn about computers, networks, and data." Margin="0,5,0,5"/>
+                </StackPanel>
+            </Border>
+
+            <Border BorderBrush="DarkBlue" BorderThickness="3" Padding="10" Margin="0,0,0,10">
+                <StackPanel>
+                    <TextBlock Text="Subject: Math" FontStyle="Italic" FontSize="18" FontWeight="Bold"/>
+                    <TextBlock Text="Study of numbers, formulas, and logical thinking." Margin="0,5,0,5"/>
+                </StackPanel>
+            </Border>
+
+            <Border BorderBrush="DarkBlue" BorderThickness="3" Padding="10">
+                <StackPanel>
+                    <TextBlock Text="Subject: English" FontStyle="Italic" FontSize="18" FontWeight="Bold"/>
+                    <TextBlock Text="Improve your reading, writing, and speaking skills." Margin="0,5,0,5"/>
+                </StackPanel>
+            </Border>
+
+        </StackPanel>
+    </ScrollViewer>
+</Window>
